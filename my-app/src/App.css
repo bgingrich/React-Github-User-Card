@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+.card {
+  width: 100%;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  background-color: orange;
+  margin-bottom: 20px;
+}
+
+.cardFollower {
+  width: 100%;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  background-color: aqua;
+  margin-bottom: 25px;
+}
+
+.cardFollower img {
+  width: 25%;
+  height: 100%;
+  border-radius: 5px;
+  margin-right: 20px;
+}
+
+.card img {
+  width: 25%;
+  height: 100%;
+  border-radius: 5px;
+  margin-right: 20px;
+}
+
+.name {
+  font-size: 2rem;
+  display:flex;
+  flex-direction: column;
+  width: 45%;
+}
